@@ -17,7 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atiwari2000&show_icons=true&locale=en&layout=compact" alt="atiwari2000" /></p>
 
-
+<p>[![An image of @atiwari2000's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atiwari2000)](https://holopin.io/@atiwari2000)</p>
 <!---
 ATiwari2000/ATiwari2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
